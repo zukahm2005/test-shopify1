@@ -11,15 +11,11 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "blocks": { 
+      "blocks": {
         "heading": {
           "type": "heading",
           "settings": {
-<<<<<<< HEAD
-            "heading": "Browse our latest products change 5",
-=======
             "heading": "Browse our latest products change 6",
->>>>>>> 575f73f51599efa0625975acfbfdbe4d90da0e1e
             "heading_size": "h0"
           }
         },
@@ -40,6 +36,7 @@
         "button"
       ],
       "settings": {
+        "image": "shopify://shop_images/hinh_nen_may_tinh_dep_1.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "desktop_content_position": "bottom-center",
