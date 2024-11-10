@@ -15,7 +15,11 @@
         "heading": {
           "type": "heading",
           "settings": {
+<<<<<<< HEAD
             "heading": "Browse our latest products change 5",
+=======
+            "heading": "Browse our latest products change 6",
+>>>>>>> 575f73f51599efa0625975acfbfdbe4d90da0e1e
             "heading_size": "h0"
           }
         },
